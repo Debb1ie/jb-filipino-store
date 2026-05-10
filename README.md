@@ -1,7 +1,7 @@
 # J&B Furniture Liquidation and Filipino/Asian Store — Website
 
 A single-file website for J&B Store at 5645 Ferry St., Niagara Falls, ON.  
-Built to drive foot traffic to the physical store — no online shop or checkout.
+Built to drive foot traffic to the physical store — no online shop or checkout
 
 ---
 
